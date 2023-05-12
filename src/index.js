@@ -11,6 +11,16 @@ const messages = [
     "Reinventing the wheel. Again.",
     "This is not the commit message you are looking for",
     "Batman! (this commit has no parents)",
+    "Don't be a git, use git.",
+    "npm install happiness --save",
+    "JavaScript is like a box of chocolates. You never know what you're gonna get.",
+    "git commit -m \"I love you\"",
+    "npm run away",
+    "JavaScript makes me smile. Sometimes.",
+    "git push origin master",
+    "npm start a new life",
+    "JavaScript is not Java. Repeat after me.",
+    "git stash your problems away"
   ];
   
   const funnyCommit = () => {
