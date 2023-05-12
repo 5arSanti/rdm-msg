@@ -20,7 +20,17 @@ const messages = [
     "git push origin master",
     "npm start a new life",
     "JavaScript is not Java. Repeat after me.",
-    "git stash your problems away"
+    "git stash your problems away",
+    "I'm not lazy, I'm just very relaxed.",
+    "Don't worry, be happy.",
+    "Life is short, smile while you still have teeth.",
+    "I don't need a therapist, I have a dog.",
+    "If you can't convince them, confuse them.",
+    "I'm not arguing, I'm just explaining why I'm right.",
+    "I'm not weird, I'm limited edition.",
+    "I'm not old, I'm vintage.",
+    "I'm not bossy, I have leadership skills.",
+    "I'm not clumsy, it's just the floor hates me."
   ];
   
   const funnyCommit = () => {
