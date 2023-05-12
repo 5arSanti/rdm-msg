@@ -20,9 +20,11 @@
     "url": "https://github.com/5arSanti/rdm-msg/issues"
   },
   "homepage": "https://github.com/5arSanti/rdm-msg#readme",
-  
   "bin": {
     "rdm-msg": "./bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
 }
